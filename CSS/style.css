@@ -554,6 +554,7 @@ body {
 .created-date {
   font-size: 0.8em;
   color: grey;
+  float: right;
 }
 
 .right-side {
