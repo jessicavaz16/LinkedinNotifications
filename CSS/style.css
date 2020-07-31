@@ -464,7 +464,7 @@ body {
   align-items: center;
   font-size: 1em;
   color: grey;
-  border-bottom: 1px solid #ddd;
+  border: 1px solid #ddd;
 }
 
 .card-main {
