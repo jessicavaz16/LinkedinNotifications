@@ -702,7 +702,6 @@ body {
   }
   .card {
     margin-bottom: 0.6em;
-    box-shadow: -1px 20px 0px 0px #dddddd61;
   }
   .more-icon {
     transform: rotate(90deg);
